@@ -1,0 +1,214 @@
+/* Coded-By-(@sudhanshuprasad2002)-Github*/
+/* -------------------------Google-Fonts------------------------- */
+
+@import url("https://fonts.googleapis.com/css2?family=Mohave&display=swap");
+
+/* -------------------------Google-Fonts------------------------- */
+
+/* Coded-By-(@sudhanshuprasad2002)-Github*/
+
+/* -------------------------Smooth-Scrolling------------------------- */
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* -------------------------Smooth-Scrolling------------------------- */
+
+/* -------------------------Home-Section------------------------- */
+
+/* -------------------------Left-Div------------------------- */
+
+/* Coded-By-(@sudhanshuprasad2002)-Github*/
+
+.body-01 {
+  display: flex;
+}
+
+.left-div {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0 0 0 2rem;
+  font-family: "Mohave", sans-serif;
+  flex: 65%;
+}
+
+.heading-01 {
+  color: #000;
+  font-size: 2.4rem;
+  padding: 4rem 0 0 0;
+}
+
+.head-img {
+  width: 95%;
+}
+
+.heading-01-sub {
+  color: #000;
+  font-size: 2.4rem;
+}
+
+.main-01-a {
+  font-size: 1.35rem;
+  padding-right: 1.5rem;
+}
+
+.main-01-a span {
+  color: #49e046;
+}
+
+/* Coded-By-(@sudhanshuprasad2002)-Github*/
+
+.main-01-b {
+  color: #49e046;
+  font-size: 2rem;
+}
+
+.line-b {
+  width: 52%;
+  margin-left: 0;
+  height: 0.35rem;
+  border-radius: 2rem;
+  color: #000;
+  background-color: #000;
+}
+
+.head-end {
+  width: 95%;
+  padding: 2rem 0 0 0;
+}
+
+/* Coded-By-(@sudhanshuprasad2002)-Github*/
+
+/* -------------------------Left-Div------------------------- */
+
+/* -------------------------Right-Div------------------------- */
+
+.right-div {
+  flex: 35%;
+  margin: 0;
+  box-sizing: border-box;
+  padding: 4.7rem 2rem 0 0;
+  font-family: "Mohave", sans-serif;
+}
+
+.heading-02-right {
+  color: #49e046;
+}
+
+.line-c {
+  width: 31.2vw;
+  margin-left: 0;
+  height: 0.35rem;
+  border-radius: 2rem;
+  color: #000;
+  background-color: #000;
+}
+
+.right-p {
+  font-size: 1.2rem;
+  width: 95%;
+}
+
+/* Coded-By-(@sudhanshuprasad2002)-Github*/
+
+.right-pic-01 {
+  width: 20rem;
+  height: 25rem;
+  margin: 3rem 0 3rem 3.3rem;
+}
+
+.right-pic-02 {
+  width: 95%;
+  height: 36rem;
+}
+
+.right-img-box {
+  display: flex;
+}
+
+/* Coded-By-(@sudhanshuprasad2002)-Github*/
+
+.column {
+  flex: auto;
+}
+
+.icon-share {
+  width: 2.2rem;
+  height: 2.2rem;
+  cursor: pointer;
+}
+
+/* -------------------------Right-Div------------------------- */
+
+/* -------------------------Home-Section------------------------- */
+
+/* -------------------------Footer------------------------- */
+
+footer {
+  height: 6rem;
+  margin-left: 0;
+  padding-left: 2rem;
+  background-color: #fff;
+  color: #000;
+  font-family: "Mohave", sans-serif;
+}
+
+/* Coded-By-(@sudhanshuprasad2002)-Github*/
+
+.para-a {
+  margin-bottom: 0.4rem;
+  margin-left: 1.5rem;
+  font-size: 1.2rem;
+}
+
+.para-a a {
+  color: #49e046;
+}
+
+/* Coded-By-(@sudhanshuprasad2002)-Github*/
+
+.para-a a:hover {
+  color: #e6b61b;
+  transition: all 0.3s ease;
+}
+
+.para-c {
+  font-size: 18px;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.link-right {
+  margin-left: 81.5vw;
+}
+
+.but {
+  border-radius: 100%;
+  width: 40px;
+  height: 40px;
+  background-color: #49e046;
+  border: none;
+  font-weight: bolder;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.but :hover {
+  cursor: pointer;
+  background-color: black;
+  color: #49e046;
+}
+
+/* Coded-By-(@sudhanshuprasad2002)-Github*/
+
+/* -------------------------Footer------------------------- */
+
+/* new */
+
+.home-list {
+  font-size: 1.35rem;
+  padding-right: 1.5rem;
+}
+
+/* new */

@@ -1,0 +1,226 @@
+/* Coded-By-(@sudhanshuprasad2002)-Github*/
+/* -------------------------Google-Fonts------------------------- */
+
+@import url("https://fonts.googleapis.com/css2?family=Mohave&display=swap");
+
+/* -------------------------Google-Fonts------------------------- */
+
+/* Coded-By-(@sudhanshuprasad2002)-Github*/
+
+/* font-family: "Mohave", sans-serif; */
+
+/* ---------------------------About-Us--------------------------- */
+
+.line-about {
+  width: 95%;
+  margin-left: 0;
+  height: 0.35rem;
+  border-radius: 2rem;
+  color: #000;
+  background-color: #000;
+}
+
+/* ---------------------------About-Us--------------------------- */
+
+/* ---------------------------Programmes-Offered--------------------------- */
+
+.heading-01-mod {
+  color: #000;
+  font-size: 2.4rem;
+  padding: 4rem 0 0 0;
+}
+
+.online-study {
+  font-family: "Mohave", sans-serif;
+  font-size: 2rem;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+/* Coded-By-(@sudhanshuprasad2002)-Github*/
+
+.head-pro-01 {
+  font-family: "Mohave", sans-serif;
+  font-size: 1.8rem;
+  color: #006eff;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.line-b-mod-pro {
+  width: 95%;
+  margin-left: 0;
+  height: 0.35rem;
+  border-radius: 2rem;
+  color: #000;
+  background-color: #000;
+}
+
+/* Coded-By-(@sudhanshuprasad2002)-Github*/
+
+.program {
+  width: 95%;
+}
+
+/* ---------------------------Programmes-Offered--------------------------- */
+
+/* ---------------------------Faculty--------------------------- */
+
+.img-faculty {
+  width: 95%;
+  /* height: 30em; */
+}
+
+/* ---------------------------Faculty--------------------------- */
+
+/* ---------------------------Assesment--------------------------- */
+
+.recog {
+  color: #006eff;
+}
+
+/* Coded-By-(@sudhanshuprasad2002)-Github*/
+
+.newbie-91 {
+  font-size: 1.35rem;
+  padding-right: 1.5rem;
+}
+
+/* ---------------------------Assesment--------------------------- */
+
+/* ---------------------------Graduates--------------------------- */
+
+.right-pic-01-v2 {
+  width: 90%;
+  height: 34rem;
+  margin: 2rem 0 2rem 0.8rem;
+}
+
+.sub-body-01 {
+  display: flex;
+}
+
+.sub-left-div {
+  flex: 50%;
+}
+
+.sub-right-div {
+  flex: 50%;
+}
+
+.left-main-931 {
+  font-size: 1.35rem;
+}
+
+.left-main-931 span {
+  color: #006eff;
+}
+
+/* Coded-By-(@sudhanshuprasad2002)-Github*/
+
+.sub-p-right {
+  font-size: 1.35rem;
+}
+
+.sub-p-right span {
+  color: #006eff;
+}
+
+.graduation-image {
+  width: 95%;
+}
+
+.grad-button {
+  background: none;
+  color: #000;
+  border: 1px solid #49e046;
+  width: 8rem;
+  height: 2.9rem;
+  padding: 0 0 0 0;
+  transition: all 0.3s ease;
+  margin: 0.5rem 0 0 20rem;
+  cursor: pointer;
+}
+
+/* Coded-By-(@sudhanshuprasad2002)-Github*/
+
+.grad-button span {
+  font-size: 1.2rem;
+  font-family: "Mohave", sans-serif;
+}
+
+.grad-button:hover {
+  background: #49e046;
+  color: #fff;
+}
+
+/* ---------------------------Graduates--------------------------- */
+
+/* ---------------------------Contact-Us--------------------------- */
+
+.heading-01-con {
+  color: #49e046;
+}
+
+.contact-box {
+  width: 90%;
+  background-color: #fff;
+  box-shadow: 0 0 20px 0 #999;
+  padding-left: 1rem;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+  margin-bottom: 2.8rem;
+}
+
+/* Coded-By-(@sudhanshuprasad2002)-Github*/
+
+.contact-box form p {
+  color: #000;
+  margin-bottom: 0;
+}
+
+.contact-box form span {
+  color: #f83a3a;
+}
+
+.contact-box textarea {
+  width: 90%;
+  height: 9.75rem;
+}
+
+.contact-box form p strong {
+  font-weight: 800;
+}
+
+.send-button {
+  background: none;
+  color: #000;
+  border: 1px solid #49e046;
+  width: 8rem;
+  height: 2.9rem;
+  padding: 0 0 0 0;
+  transition: all 0.3s ease;
+  margin: 0.5rem 0 0 0;
+  cursor: pointer;
+}
+
+/* Coded-By-(@sudhanshuprasad2002)-Github*/
+
+.send-button span {
+  font-size: 1.2rem;
+  font-family: "Mohave", sans-serif;
+}
+
+.send-button:hover {
+  background: #49e046;
+  color: #fff;
+}
+
+/* Coded-By-(@sudhanshuprasad2002)-Github*/
+
+/* ---------------------------Contact-Us--------------------------- */
+
+.heading-02-con {
+  color: #49e046;
+  font-size: 2.4rem;
+}
