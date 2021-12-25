@@ -17,6 +17,23 @@
   background-color: #000;
 }
 
+/* ---------------------------Images-Grid--------------------------- */
+.about-image-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 12rem);
+}
+
+.mod-img {
+  margin-left: 5rem;
+  margin-top: 2rem;
+}
+
+.mod-img-2 {
+  margin-top: 1rem;
+}
+
+/* ---------------------------Images-Grid--------------------------- */
+
 /* ---------------------------About-Us--------------------------- */
 
 /* ---------------------------Programmes-Offered--------------------------- */
@@ -118,6 +135,32 @@
 .graduation-image {
   width: 95%;
 }
+
+/* ---------------------------Programmes-Offered-Button--------------------------- */
+.grad-button-Pro {
+  background: none;
+  color: #000;
+  border: 1px solid #49e046;
+  width: 20rem;
+  height: 2.9rem;
+  padding: 0 0 0 0;
+  transition: all 0.3s ease;
+  margin: 0.5rem 0 0 15rem;
+  cursor: pointer;
+}
+
+.grad-button-Pro span {
+  font-size: 1.2rem;
+  font-family: "Mohave", sans-serif;
+}
+
+.grad-button-Pro:hover {
+  background: #49e046;
+  color: #fff;
+}
+/* ---------------------------Programmes-Offered-Button--------------------------- */
+
+/* ---------------------------Graduates-Button--------------------------- */
 
 .grad-button {
   background: none;
